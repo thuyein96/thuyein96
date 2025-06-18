@@ -8,8 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thuyein96&theme=default&show_icons=true&hide_border=true&count_private=true" alt="thuyein96's Stats">
 </div>
 
-<div>
-    <table style="flex: 1; min-width: 300px; margin: 10px; border-collapse: collapse; font-family: Arial, sans-serif;" align="center">
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+    <table style="flex: 1; min-width: 300px; margin: 10px; border-collapse: collapse; font-family: Arial, sans-serif;">
         <thead>
             <tr>
               <th colspan="3"><h3 align="center">🦾 Projects 🦾</h3></th>
