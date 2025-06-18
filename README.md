@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=thuyein96&theme=default&show_icons=true&hide_border=true&count_private=true" alt="thuyein96's Stats">
 </div>
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; flex-wrap: wrap;">
     <table style="flex: 1; min-width: 300px; margin: 10px; border-collapse: collapse; font-family: Arial, sans-serif;" align="center">
         <thead>
             <tr>
