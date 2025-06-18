@@ -6,6 +6,7 @@
 ---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thuyein96&theme=default&show_icons=true&hide_border=true&count_private=true" alt="thuyein96's Stats">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thuyein96" alt="GitHub Streak" /></a>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
