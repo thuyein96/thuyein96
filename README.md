@@ -5,8 +5,9 @@
 
 ---
 
-  ![thuyein96's Stats](https://github-readme-stats.vercel.app/api?username=thuyein96&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  ![thuyein96's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuyein96&theme=vue-dark&hide_border=true)
+  ![thuyein96's Stats](https://github-readme-stats.vercel.app/api?username=thuyein96&theme=default&show_icons=true&hide_border=true&count_private=true)
+  </br>
+  ![thuyein96's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuyein96&theme=dark&hide_border=true)
 
 ### 🦾 Projects
 
