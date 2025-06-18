@@ -5,10 +5,8 @@
 
 ---
 
-<p align="center">
   ![thuyein96's Stats](https://github-readme-stats.vercel.app/api?username=thuyein96&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   ![thuyein96's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuyein96&theme=vue-dark&hide_border=true)
-</p>
 
 ### 🦾 Projects
 
@@ -101,7 +99,7 @@
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="thuyein" height="40" width="40" />
 </a>
 <a href="https://medium.com/@thuyein_39731" target="blank">
-<img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="thuyein" height="40" width="40" />
+<img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="thuyein" />
 </a>
 
 </div>
