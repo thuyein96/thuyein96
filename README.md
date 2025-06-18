@@ -9,42 +9,45 @@
 
 ### 🦾 Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;" align="center">
-    <table style="flex: 1; min-width: 300px; margin: 10px;">
-        <tr>
-            <td>🚀 Project Name</td>
-            <td>⭐ Year</td>
-            <td>🤖 Position</td>
-        </tr>
-        <tr>
-            <td>Restaurant Management System</td>
-            <td rowspan="3">May 2025 - Present</td>
-            <td rowspan="4">.Net Developer [Intern]</td>
-        </tr>
-        <tr>
-            <td>DOPA Mock Service</td>
-            <td rowspan="7">May 2024 - October 2024</td>
-            <td rowspan="2">Application Developer [Intern]</td>
-        </tr>
-        <tr>
-            <td>Jira Cloud Migration Batch Application</td>
-            <td rowspan="7">May 2024 - October 2024</td>
-            <td rowspan="2">Application Developer [Intern]</td>
-        </tr>
-        <tr>
-            <td>Email to Jira Ticket Batch Application</td>
-            <td rowspan="7">May 2024 - October 2024</td>
-            <td rowspan="2">Application Developer [Intern]</td>
-        </tr>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <table style="flex: 1; min-width: 300px; margin: 10px; border-collapse: collapse; font-family: Arial, sans-serif;">
+        <thead>
+            <tr style="background-color: #f2f2f2;">
+                <th style="padding: 10px; border: 1px solid #ddd; text-align: left;">🚀 Project Name</th>
+                <th style="padding: 10px; border: 1px solid #ddd; text-align: left;">⭐ Year</th>
+                <th style="padding: 10px; border: 1px solid #ddd; text-align: left;">🤖 Position</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">Restaurant Management System</td>
+                <td style="padding: 10px; border: 1px solid #ddd;">May 2025 - Present</td>
+                <td style="padding: 10px; border: 1px solid #ddd;">.Net Developer [Intern]</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">DOPA Mock Service</td>
+                <td style="padding: 10px; border: 1px solid #ddd;" rowspan="3">May 2024 - October 2024</td>
+                <td style="padding: 10px; border: 1px solid #ddd;" rowspan="3">Application Developer [Intern]</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">Jira Cloud Migration Batch Application</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border: 1px solid #ddd;">Email to Jira Ticket Batch Application</td>
+            </tr>
+        </tbody>
     </table>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 <table align="center">
+  <thead>
     <tr>
         <td colspan="3"><h3 align="center">🛸 **Personal Works Showcase** 🛸</h3></td>
-    </tr
-    <tr>
+    </tr>
+  </thead>
+    <tbody>
+      <tr>
         <td> ***SnowFlake Game Backend API*** </td>
         <td><a target="_blank" href="https://github.com/thuyein96/SeniorProject1/tree/master/SnowFlake">SnowFlake IOS Game [C# .NET 8 API]</a></td>
     </tr>
@@ -60,6 +63,7 @@
         <td>***Clean Architecture Practice***</td>
         <td><a target="_blank" href="https://github.com/thuyein96/dotnet-clean-architecture-example">Clean Architecture by Uncle Bob Practice [C# .NET 9 Blazor]</a></td>
     </tr>
+    </tbody>
 </table>
 
 <table align="center">
