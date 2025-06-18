@@ -10,6 +10,38 @@
   ![thuyein96's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuyein96&theme=vue-dark&hide_border=true)
 </p>
 
+### 🦾 Projects
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;" align="center">
+    <table style="flex: 1; min-width: 300px; margin: 10px;">
+        <tr>
+            <td>🚀 Project Name</td>
+            <td>⭐ Year</td>
+            <td>🤖 Position</td>
+        </tr>
+        <tr>
+            <td>Restaurant Management System</td>
+            <td rowspan="3">May 2025 - Present</td>
+            <td rowspan="4">.Net Developer [Intern]</td>
+        </tr>
+        <tr>
+            <td>DOPA Mock Service</td>
+            <td rowspan="7">May 2024 - October 2024</td>
+            <td rowspan="2">Application Developer [Intern]</td>
+        </tr>
+        <tr>
+            <td>Jira Cloud Migration Batch Application</td>
+            <td rowspan="7">May 2024 - October 2024</td>
+            <td rowspan="2">Application Developer [Intern]</td>
+        </tr>
+        <tr>
+            <td>Email to Jira Ticket Batch Application</td>
+            <td rowspan="7">May 2024 - October 2024</td>
+            <td rowspan="2">Application Developer [Intern]</td>
+        </tr>
+    </table>
+</div>
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 <table align="center">
     <tr>
@@ -24,7 +56,7 @@
         <td><a target="_blank" href="https://github.com/thuyein96/neetcode-practices">NeetCode Problems Practices [C#]</a></td>
     </tr>
     <tr>
-        <td>***HR Payroll Management System</td>
+        <td>***HR Payroll Management System***</td>
         <td><a target="_blank" href="https://tda-hr-system-sp2.vercel.app/">TDA HR System [NEXT.JS]</a></td>
     </tr>
     <tr>
@@ -33,6 +65,17 @@
     </tr>
 </table>
 
+<table align="center">
+    <tr>
+        <td colspan="3"><h3>📝 Articles 📝</h3></td>
+    </tr
+    <tr>
+        <td><a target="_blank" href="https://medium.com/@thuyein_39731/building-a-star-wars-space-shooter-with-amazon-q-38f701e9aa39">Building a Star Wars Space Shooter with Amazon Q CLI</a></td>
+    </tr>
+    <tr>
+        <td><a target="_blank" href="https://medium.com/@thuyein_39731/deploying-net-application-on-linux-ecs-server-alibaba-cloud-6b27beafec5e">Deploying .NET Application on Linux ECS Server (Alibaba Cloud)</a></td>
+    </tr>
+</table>
 
 ### 💻 Main Tech Stack
 
@@ -53,44 +96,31 @@
 - 💼 Final Year Student at [Assumption Unversity of Thailand](https://www.au.edu/) [August 2021 - Present]
 - 💼 Applilcation Developer (Intern) at [2C2P](https://2c2p.com/) [May 2024 - Oct 2024]
 
-### 📫 Reach me on
+### 📫 Socials & Article Links
 <a href="https://linkedin.com/in/thuyein" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" alt="thuyein" height="40" width="40" />
 </a>
+<a href="https://medium.com/@thuyein_39731" target="blank">
+<img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="thuyein" height="40" width="40" />
+</a>
 
-
-### 🦾 Projects
-
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <table style="flex: 1; min-width: 300px; margin: 10px;">
-        <tr>
-            <td>🚀 Project Name</td>
-            <td>⭐ Year</td>
-            <td>🤖 Company</td>
-        </tr>
-        <tr>
-            <td>DOPA Mock Service</td>
-        </tr>
-        <tr>
-            <td>Jira Cloud Migration Batch Application</td>
-        </tr>
-        <tr>
-            <td>Email to Jira Ticket Batch Application</td>
-            <td>May 2024 - October 2024</td>
-        </tr>
-        <tr>
-            <td>DOPA Mock Service</td>
-            <td rowspan="7">May 2024 - October 2024</td>
-            <td rowspan="2">2C2P</td>
-        </tr>
-        <tr>
-            <td>Jira Cloud Migration Batch Application</td>
-        </tr>
-        <tr>
-            <td>Email to Jira Ticket Batch Application</td>
-            <td rowspan="3">Application Developer [Intern]</td>
-        </tr>
-    </table>
 </div>
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
