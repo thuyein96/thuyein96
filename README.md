@@ -7,11 +7,14 @@
 
   ![thuyein96's Stats](https://github-readme-stats.vercel.app/api?username=thuyein96&theme=default&show_icons=true&hide_border=true&count_private=true)
 
-### 🦾 Projects
+### 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-    <table style="flex: 1; min-width: 300px; margin: 10px; border-collapse: collapse; font-family: Arial, sans-serif;">
+    <table style="flex: 1; min-width: 300px; margin: 10px; border-collapse: collapse; font-family: Arial, sans-serif;" align="center">
         <thead>
+            <tr>
+              <th colspan="3"><h3 align="center">🦾 Projects 🦾</h3></th>
+            </tr>
             <tr style="background-color: #f2f2f2;">
                 <th style="padding: 10px; border: 1px solid #ddd; text-align: left;">🚀 Project Name</th>
                 <th style="padding: 10px; border: 1px solid #ddd; text-align: left;">⭐ Year</th>
@@ -68,7 +71,7 @@
 
 <table align="center">
     <tr>
-        <td colspan="3"><h3>📝 Articles 📝</h3></td>
+        <td colspan="3"><h3 align="center">📝 Articles 📝</h3></td>
     </tr
     <tr>
         <td><a target="_blank" href="https://medium.com/@thuyein_39731/building-a-star-wars-space-shooter-with-amazon-q-38f701e9aa39">Building a Star Wars Space Shooter with Amazon Q CLI</a></td>
