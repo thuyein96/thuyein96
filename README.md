@@ -4,8 +4,9 @@
 > I am a Backend developer who's currently studying final year IT in Assumption University. I am currently looking for job in junior developer role in Thailand.
 
 ---
-
-  ![thuyein96's Stats](https://github-readme-stats.vercel.app/api?username=thuyein96&theme=default&show_icons=true&hide_border=true&count_private=true)
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=thuyein96&theme=default&show_icons=true&hide_border=true&count_private=true" alt="thuyein96's Stats">
+</div>
 
 ### 
 
