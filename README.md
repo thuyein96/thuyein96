@@ -6,8 +6,6 @@
 ---
 
   ![thuyein96's Stats](https://github-readme-stats.vercel.app/api?username=thuyein96&theme=default&show_icons=true&hide_border=true&count_private=true)
-  </br>
- [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=thuyein96)](https://github.com/thuyein96/github-readme-profile)
 
 ### 🦾 Projects
 
