@@ -5,8 +5,8 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thuyein96&theme=default&show_icons=true&hide_border=true&count_private=true" alt="thuyein96's Stats">
-  <img src="https://streak-stats.demolab.com?user=thuyein96" alt="thuyein96's Stats">
+  <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api?username=thuyein96&theme=default&show_icons=true&hide_border=false&count_private=true">
+  <img height="160px" width="48%" src ="https://github-readme-streak-stats.herokuapp.com/?user=thuyein96&theme=default&hide_border=false">
 </div>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
