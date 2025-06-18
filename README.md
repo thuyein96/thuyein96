@@ -7,7 +7,7 @@
 
   ![thuyein96's Stats](https://github-readme-stats.vercel.app/api?username=thuyein96&theme=default&show_icons=true&hide_border=true&count_private=true)
   </br>
-  ![thuyein96's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thuyein96&theme=dark&hide_border=true)
+ [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=thuyein96)](https://github.com/thuyein96/github-readme-profile)
 
 ### 🦾 Projects
 
