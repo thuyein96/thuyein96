@@ -4,7 +4,7 @@
 > I am a Backend developer who's currently studying final year IT in Assumption University. I am currently looking for job in junior developer role in Thailand.
 
 ---
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thuyein96&theme=default&show_icons=true&hide_border=true&count_private=true" alt="thuyein96's Stats">
 </div>
 
@@ -42,7 +42,7 @@
 </div>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-<table align="center">
+<table>
   <thead>
     <tr>
         <td colspan="3"><h3 align="center">🛸 **Personal Works Showcase** 🛸</h3></td>
@@ -68,7 +68,7 @@
     </tbody>
 </table>
 
-<table align="center">
+<table>
     <tr>
         <td colspan="3"><h3 align="center">📝 Articles 📝</h3></td>
     </tr
