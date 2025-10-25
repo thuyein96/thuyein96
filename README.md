@@ -55,16 +55,12 @@
         <td><a target="_blank" href="https://github.com/thuyein96/SeniorProject1/tree/master/SnowFlake">SnowFlake IOS Game [C# .NET 8 API]</a></td>
     </tr>
     <tr>
-        <td>***NeetCode Practices***</td>
-        <td><a target="_blank" href="https://github.com/thuyein96/neetcode-practices">NeetCode Problems Practices [C#]</a></td>
+        <td>***One Month One Project***</td>
+        <td><a target="_blank" href="https://github.com/one-project-one-month/hr-system-csharp">HR System [C#]</a></td>
     </tr>
     <tr>
         <td>***HR Payroll Management System***</td>
         <td><a target="_blank" href="https://tda-hr-system-sp2.vercel.app/">TDA HR System [NEXT.JS]</a></td>
-    </tr>
-    <tr>
-        <td>***Clean Architecture Practice***</td>
-        <td><a target="_blank" href="https://github.com/thuyein96/dotnet-clean-architecture-example">Clean Architecture by Uncle Bob Practice [C# .NET 9 Blazor]</a></td>
     </tr>
     </tbody>
 </table>
