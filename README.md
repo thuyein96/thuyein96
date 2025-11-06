@@ -1,7 +1,7 @@
 ## Hello friends 🤟, I am Thu Yein! ⚡
 🔥 C# / ASP.NET Core 🔥
 
-> I am a Backend developer who's currently studying final year IT in Assumption University.
+> I am a Software Engineer who's currently studying final year IT in Assumption University.
 
 ---
 <div align="center">
