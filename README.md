@@ -58,10 +58,6 @@
         <td>***One Month One Project***</td>
         <td><a target="_blank" href="https://github.com/one-project-one-month/hr-system-csharp">HR System [C#]</a></td>
     </tr>
-    <tr>
-        <td>***HR Payroll Management System***</td>
-        <td><a target="_blank" href="https://tda-hr-system-sp2.vercel.app/">TDA HR System [NEXT.JS]</a></td>
-    </tr>
     </tbody>
 </table>
 
